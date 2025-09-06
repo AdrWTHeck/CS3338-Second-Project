@@ -1,0 +1,53 @@
+commit 647811c977c1ae94befc84f88cc8dd61146a0262
+Merge: e16f5af cf815fe
+Author: AdrWTHeck <aperez419@calstatela.edu>
+Date:   Fri Sep 5 18:42:18 2025 -0700
+
+    merged the index fix into main: resolved to keep simple div
+
+commit cf815fe51664e5b8c3c38790286a902b402ee570
+Author: AdrWTHeck <aperez419@calstatela.edu>
+Date:   Fri Sep 5 18:37:46 2025 -0700
+
+    index-fix: add favorite movie div
+
+commit e16f5afc9ea5078a75524036f7aadabfb2247852
+Author: AdrWTHeck <aperez419@calstatela.edu>
+Date:   Fri Sep 5 18:12:53 2025 -0700
+
+    added a line in the index for favorite food
+
+commit eef2c77e7a4fa9dddcf063cbe9fc788f5b9a4bba
+Merge: 4e0f8a0 e2a16de
+Author: Adrian Perez-Gonzales <adrianpg616@gmail.com>
+Date:   Fri Sep 5 18:06:55 2025 -0700
+
+    Merge pull request #1 from AdrWTHeck/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 4e0f8a073293e296763a2c0f4f248af12d193581
+Author: AdrWTHeck <aperez419@calstatela.edu>
+Date:   Fri Sep 5 17:54:48 2025 -0700
+
+    Add README that describes the repo
+
+commit e2a16de5ac2a2b7f59f213afc27288436ae0d727
+Author: AdrWTHeck <aperez419@calstatela.edu>
+Date:   Fri Sep 5 17:38:19 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit f5698589f78db7c034f0754542a6a9c0ca853cc0
+Author: Adrian Perez-Gonzales <adrianpg616@gmail.com>
+Date:   Fri Sep 5 17:08:53 2025 -0700
+
+    Update index.html
+    
+    filled in the spaces
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
